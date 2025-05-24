@@ -141,7 +141,7 @@ video {
 }
 #video:after {
   content: '';
-  opacity: 0.75;
+  opacity: 0;
   background: #65a9ee; /* Old browsers */
   background: -moz-linear-gradient(top, #65a9ee 0%, #cfcfcf 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, 65a9ee#65a9ee 0%,#b4b4b4 100%); /* Chrome10-25,Safari5.1-6 */
